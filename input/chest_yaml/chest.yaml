@@ -1,0 +1,13 @@
+train: ./input/chest_yolo/images/train/  # 118k images
+val: ./input/chest_yolo/images/val/  # 5k images
+# test: ../coco/test-dev2017.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 14
+
+# class names
+names: ['Aortic enlargement', 'Atelectasis', 'Calcification',
+       'Cardiomegaly', 'Consolidation', 'ILD', 'Infiltration',
+       'Lung Opacity', 'Nodule/Mass', 'Other lesion',
+       'Pleural effusion', 'Pleural thickening', 'Pneumothorax',
+       'Pulmonary fibrosis']

@@ -1,0 +1,1 @@
+src/yolov5/train.py --epochs 1 --batch-size 2 --cfg input/chest_yaml/yolov5x.yaml --hyp src/yolov5/data/hyp.scratch.yaml --data input/chest_yaml/chest.yaml --img 640 --cache-images --weights yolov5x.pt
