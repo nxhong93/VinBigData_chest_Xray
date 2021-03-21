@@ -5,4 +5,4 @@
 # ![pred2.png](../master/runs/train/exp/pred2.jpg)
 # ![pred3.png](../master/runs/train/exp/pred3.jpg)
 
-# ![i1.png](../master/input/images/save_test/0a08191a658edb1327e7282045ec71cf.png)
+# ![i1.png](../master/input/image/save_test/0a08191a658edb1327e7282045ec71cf.png)
